@@ -2,9 +2,7 @@
 ######################################
 # 
 # Title: Logic Simulator
-# Developer: Kalind Karia
-# GitHub: kalindkaria
-# Email: kalind1610@gmail.com
+# Developer: Deep Kanhai
 # 
 ######################################
 
